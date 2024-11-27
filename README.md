@@ -19,7 +19,7 @@ MainActivity.java: Arquivo principal sendo um projeto estático "mocado" retorna
 #Captura de tela:
 
 
-![img01](https://github.com/Paula-Thamyres/ProductControl/blob/master/Img01)
+![img01](https://github.com/Paula-Thamyres/POOKotlinEncapsulamento/blob/master/Img01)
 
 
 Como executar: 1 - Clone este repositório:
