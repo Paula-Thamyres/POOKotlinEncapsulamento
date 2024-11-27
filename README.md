@@ -18,6 +18,7 @@ MainActivity.java: Arquivo principal sendo um projeto estático "mocado" retorna
 
 #Captura de tela:
 
+Encapsulamento - seguro.png
 
 
 Como executar: 1 - Clone este repositório:
