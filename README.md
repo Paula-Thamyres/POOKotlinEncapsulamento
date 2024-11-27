@@ -1,6 +1,7 @@
 #Encapsulamento em Android Studio com Kotlin
 
 ##Este repositório contém um exemplo de implementação de encapsulamento, com informações de um livro utilizando o Android Studio e a linguagem Kotlin. O layout da tela é construído usando Constraint Layout para organizar os elementos de forma vertical.
+Foi adicionado o atributo privado para manter  todos os atrubutos protegidos e escondidos para respeitar a Orientacao a objeto em especifico oencapsulamento
 
 #Funcionalidades:
 
