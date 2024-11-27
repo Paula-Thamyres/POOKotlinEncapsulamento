@@ -18,7 +18,8 @@ MainActivity.java: Arquivo principal sendo um projeto estático "mocado" retorna
 
 #Captura de tela:
 
-Encapsulamento - seguro.png
+
+![img01](https://github.com/Paula-Thamyres/ProductControl/blob/master/Encapsulamento - seguro.png.png)
 
 
 Como executar: 1 - Clone este repositório:
